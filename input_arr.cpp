@@ -6,6 +6,7 @@ int main(){
   cout<<"Enter number of test cases: ";
   int t,n,i,j;
   cin>>t;
+  cout<<"Enter array:";
   char c=getchar();
   for(i=0;i<t;i++){
     string str;
